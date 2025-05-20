@@ -1,33 +1,79 @@
-# Python_POO_study
+# 🐍 Python POO — Estudo com Programador Lhama
 
-Esse repositório foi feito para acompanhar meu desempenho em um curso de programação orientada a objetos do programador lhama, reconheço aqui a qualidade do conteúdo, abrange muito bem os conceitos mais importantes da programação orientada a objetos na linguagem de programaçaõ python. Separei cada aula em um diretório e lá coloquei os arquivos utilizados na aula. O curso 22 aulas, dispostas da seguinte maneira:
+Este repositório foi criado para acompanhar meu progresso no curso de **Programação Orientada a Objetos em Python**, ministrado pelo **Programador Lhama** no YouTube.
 
-  Aula 1 - Introdução
-  Aula 2 - Introdução Teórica
-  Aula 3 - Conceitos Básicos
-  Aula 4 - Métodos Privados
-  Aula 5 - Getters/Setters e Encapsulamento
-  Aula 6 - SOLID (S) - Princípio da responsabilidade única
-  Aula 7 - Variáveis de Classe
-  Aula 8 - Métodos de Classe
-  Aula 9 - Exercício de Métodos de Classe
-  Aula 10 - Associação de Classe
-  Aula 11 - SOLID (O) - Princípio Aberto/Fechado
-  Aula 12 - Injeção de Dependência
-  Aula 13 - Exercício de Injeção de Dependência
-  Aula 14 - Heranças
-  Aula 15 - Encapsulamento Protegido
-  Aula 16 - Polimorfismo
-  Aula 16 - SOLID (L) - Princípio da Substituição de Liskov
-  Aula 17 - Classes Abstratas
-  Aula 18 - Interfaces
-  Aula 19 - SOLID (I) - Princípio da Segregação de Interfaces
-  Aula 20 - SOLID (D) - Princípio da Inversão da Dependência
-  Aula 21 - Agregação
-  Aula 22 - Composição
+Reconheço a qualidade do conteúdo apresentado: o curso aborda de forma clara os principais conceitos da orientação a objetos com a linguagem Python, além de incluir tópicos de arquitetura de software e boas práticas utilizando os princípios **SOLID**.
 
-O curso cobre não só os pilares fundamentais da programação orientada a objetos (Abstração, Encapsulamento, Herança e Polimorfismo), mas os relacionamentos entre as classes (Associação, Dependência, Herança, Agregação e Composição) e vários conceitos de arquitetura de software e boas práticas de desenvolvimento com os 5 princípios SOLID.
+---
 
-O curso a seguir:
+## 📁 Estrutura do Repositório
 
-https://youtube.com/playlist?list=PLAgbpJQADBGK8EemmTEoIwW08bXCjfSuA&si=I_20lFDjyFTTux8L
+Cada aula do curso está organizada em um diretório separado, contendo os arquivos de código e exercícios correspondentes à explicação teórica.
+
+---
+
+## 📚 Conteúdo do Curso
+
+O curso é dividido em 22 aulas, conforme a seguir:
+
+- Aula 01 — Introdução  
+- Aula 02 — Introdução Teórica  
+- Aula 03 — Conceitos Básicos  
+- Aula 04 — Métodos Privados  
+- Aula 05 — Getters/Setters e Encapsulamento  
+- Aula 06 — SOLID (S) - Princípio da Responsabilidade Única  
+- Aula 07 — Variáveis de Classe  
+- Aula 08 — Métodos de Classe  
+- Aula 09 — Exercício de Métodos de Classe  
+- Aula 10 — Associação de Classe  
+- Aula 11 — SOLID (O) - Princípio Aberto/Fechado  
+- Aula 12 — Injeção de Dependência  
+- Aula 13 — Exercício de Injeção de Dependência  
+- Aula 14 — Heranças  
+- Aula 15 — Encapsulamento Protegido  
+- Aula 16 — Polimorfismo  
+- Aula 16 — SOLID (L) - Princípio da Substituição de Liskov *(numeração proposital)*  
+- Aula 17 — Classes Abstratas  
+- Aula 18 — Interfaces  
+- Aula 19 — SOLID (I) - Princípio da Segregação de Interfaces  
+- Aula 20 — SOLID (D) - Princípio da Inversão da Dependência  
+- Aula 21 — Agregação  
+- Aula 22 — Composição  
+
+---
+
+## 🧠 Tópicos Abordados
+
+### Fundamentos da Programação Orientada a Objetos:
+- Abstração  
+- Encapsulamento  
+- Herança  
+- Polimorfismo  
+
+### Relacionamentos entre Classes:
+- Associação  
+- Dependência  
+- Agregação  
+- Composição  
+
+### Arquitetura e Boas Práticas:
+- Princípios **SOLID**:
+  - S: Responsabilidade Única  
+  - O: Aberto/Fechado  
+  - L: Substituição de Liskov  
+  - I: Segregação de Interfaces  
+  - D: Inversão da Dependência  
+
+---
+
+## 🔗 Link para o Curso
+
+O curso está disponível gratuitamente no YouTube e pode ser acessado através do link abaixo:
+
+[📺 Playlist oficial do curso - Programador Lhama](https://youtube.com/playlist?list=PLAgbpJQADBGK8EemmTEoIwW08bXCjfSuA&si=I_20lFDjyFTTux8L)
+
+---
+
+## 🎯 Objetivo do Repositório
+
+Este repositório tem como finalidade acompanhar minha evolução no estudo de POO com Python, servindo como material de apoio, prática e revisão dos conceitos aprendidos.
