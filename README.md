@@ -1,4 +1,4 @@
-# 🐍 Python POO — Estudo com Programador Lhama
+# 💻 Python POO — Estudo com Programador Lhama
 
 Este repositório foi criado para acompanhar meu progresso no curso de **Programação Orientada a Objetos em Python**, ministrado pelo **Programador Lhama** no YouTube.
 
@@ -74,6 +74,6 @@ O curso está disponível gratuitamente no YouTube e pode ser acessado através 
 
 ---
 
-## 🎯 Objetivo do Repositório
+## 🎓 Objetivo do Repositório
 
 Este repositório tem como finalidade acompanhar minha evolução no estudo de POO com Python, servindo como material de apoio, prática e revisão dos conceitos aprendidos.
